@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Goodbye Gransdma.");
+console.log("I am tired")
+console.log(5 + 15)
+console.log ("Goodnight moon ",  "Hello morning.")
 
 /*  
 Next, PLAY! 
